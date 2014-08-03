@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WOApp</string>
+    <string name="workout">WORKOUT APP</string>
+    <string name="scroll_right">Swipe left to view more muscles!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+	<string name="additional">Add</string>
+	<string name="shoulder_button">Shoulder</string>
+	<string name="chest_button">Chest</string>
+	<string name="legs_button">Legs</string>
+	<string name="back_button">Back</string>
+	<string name="abs_button">Abs</string>
+	<string name="forearms_button">Forearms</string>
+	<string name="cardio_button">Cardio</string>
+	
+	
+</resources>

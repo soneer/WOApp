@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plan_button">Plan</string>
+	<string name="start_button">Start</string>
+	 <string name="add_button">Add</string>
+	<string name="remove_button">Remove</string>
+	<string name="search_placeholder">Search Exercises &#8230;</string>
+	<color name="gray">#C0C0C0</color>
+	<color name="WHTIE">#FFFFFF</color>
+    
+	
+	
+</resources>
