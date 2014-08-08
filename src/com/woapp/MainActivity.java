@@ -25,7 +25,6 @@ public class MainActivity extends ActionBarActivity {
 	Button next;
 	private ArrayList<String> muscleList;
 	
-	//test
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		
