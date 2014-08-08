@@ -19,6 +19,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+/**
+ * 
+ * @author Soneer
+ *
+ */
 public class MainActivity extends ActionBarActivity {
 	ImageView back, chest, tricep, legs, cardio, abs, shoulders, biceps, forearms, previousButton;
 	int width, height, count;
